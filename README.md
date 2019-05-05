@@ -1,5 +1,7 @@
 I finished this project alone. So there aren't any emails of team members.
+
 I used yolo_V3 for traffic light detection. [yolo_V3 link](https://github.com/qqwweee/keras-yolo3.git)
+
 The training data comes from traffic_light_bag_file.zip.
 
 
